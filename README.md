@@ -17,11 +17,8 @@ Welcome to the Notes App! This iOS application allows users to create, update, a
 
 ## Screnshot  
 
-<p>
-  <img scr="https://github.com/user-attachments/assets/a14de3bd-9af5-41b3-a2a5-13aa1f8cc89b" width="220px">
-  <img scr="" width="220px">
-  <img scr="" width="220px">
-</p>
+
+
 
 
 
