@@ -26,6 +26,10 @@ Welcome to the Notes App! This iOS application allows users to create, update, a
      <img src="https://github.com/user-attachments/assets/4da798d4-4901-447f-b7bc-438f69c8d9bd" width="220px">     
 </p>
 
-https://github.com/user-attachments/assets/eea96390-f8e7-43ec-b1b4-85e869c6a6e8
+
+
+
+https://github.com/user-attachments/assets/2ca4d348-2c78-4ab5-9f02-e94266a31c06
+
 
 
